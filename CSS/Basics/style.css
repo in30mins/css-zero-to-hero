@@ -1,0 +1,16 @@
+h1{
+    background-color: black;
+    color: whitesmoke;
+}
+h2{
+    background-color: violet;
+    color: azure;
+    font-style: italic;
+}
+
+/* This is comments in CSS */
+/* selectors h1, h2, table classes ids ...... */
+/* CSS Rule */
+/* declaration block */
+/* property */
+/* value */
